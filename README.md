@@ -2,8 +2,6 @@
 <h3 align="center">☕✈︎ From the Philippines | CS Student | Future Pro Dev 🚀</h3>
 
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/32/50/04/325004b95e0643d19e961f88f7ca891a.gif" />
-
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
