@@ -16,9 +16,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 💫 About Me:
 
-</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - 🔭 I'm currently working on **learning DevOps fundamentals**  
 - 🤝 I'm looking to collaborate on **simple open-source projects to practice my skills**  
