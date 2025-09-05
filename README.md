@@ -40,6 +40,11 @@
 
 ### 📊 GitHub Stats & Analytics  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyboyy23&layout=compact" alt="Top languages" />
+</p>
+
+
 <!-- Contributions Graph -->
 ![Joyboyy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyboyy23&theme=tokyo-night)
 
