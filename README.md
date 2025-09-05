@@ -45,19 +45,6 @@
 </p>
 
 
-<!-- Contributions Graph -->
-![Joyboyy's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joyboyy23&theme=tokyo-night)
-
-<!-- Stats & Commits -->
-
-<!-- Streaks -->
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joyboyy23&theme=tokyonight" height="160" />
-
-</div>
-
----
-
 ### 🏆 GitHub Achievements
 
 <div align="center">
