@@ -1,4 +1,4 @@
-<h2 align="center">👋 Yoh fellow Pro-grammers! I'm <span style="color:#ff69b4">Joyboyy</span> 🖥️💖</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Yoh fellow Pro-grammers! I'm <span style="color:#ff69b4">Joyboyy</span> 🖥️💖</h2>
 <h3 align="center">☕✈︎ From the Philippines | CS Student | Future Pro Dev 🚀</h3>
 
 
