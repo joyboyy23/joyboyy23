@@ -6,7 +6,7 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFCC&center=true&vCenter=true&width=940&lines=%E2%9A%A1+Hello+World%2C+I'm+Joyboyy+%E2%9A%A1" alt="Typing SVG" />
   
-  <h3>🌌 Aspiring DevOps Engineer | 💻 CS Student | 🚀 Lifelong Learner</h3>
+  <h3>🌌 DevOps Engineer x Full-Stack Warrior | 💻 CS Student | 🚀 Lifelong Learner</h3>
   
 </div>
 
@@ -23,8 +23,7 @@
 - 🔭 I'm currently working on **learning DevOps fundamentals**  
 - 🤝 I'm looking to collaborate on **simple open-source projects to practice my skills**  
 - 👐 I'm looking for help with **Bash scripting, CI/CD basics, and Docker**  
-- 🌱 I'm currently learning **Linux, Bash, Git, and automation tools**  
-- 💬 Ask me about **my journey as a CS student and future DevOps engineer**  
+- 🌱 I'm currently learning **Linux, Bash, Git, automation tools, Python, Django**   
 - ⚡ Fun fact: *I break things a lot… then learn how to fix them 🚀*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
