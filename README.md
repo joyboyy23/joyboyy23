@@ -23,7 +23,7 @@
 - 🔭 I'm currently working on **learning DevOps fundamentals**  
 - 🤝 I'm looking to collaborate on **simple open-source projects to practice my skills**  
 - 👐 I'm looking for help with **Bash scripting, CI/CD basics, and Docker**  
-- 🌱 I'm currently learning **Linux, Bash, Git, automation tools, Python, Django**   
+- 🌱 I'm currently learning **Linux, Bash, Git, automation tools, Python**   
 - ⚡ Fun fact: *I break things a lot… then learn how to fix them 🚀*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
