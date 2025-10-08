@@ -50,7 +50,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,bash,html,python,mysql,css,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,bash,html,python,mysql,css,django,javascript&theme=dark" />
 
 
 </div>
