@@ -18,15 +18,60 @@
 
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Developer
+
+**Current Focus & Expertise**
+
+I'm actively building web applications using modern backend technologies. My journey is centered around creating robust, scalable solutions.
+
+**What I'm Working With:**
+- 🐍 **Python** - Core language proficiency
+- 🎯 **Django** - Building full-stack applications
+- 🗄️ **PostgreSQL** - Database design & optimization
+- 🔌 **REST APIs** - Creating and consuming APIs
+- 📊 **Data Handling** - CSV, JSON processing
+- 🎨 **Frontend** - HTML, CSS, JavaScript
+
+**Current Learning Path:**
+- ✅ Django fundamentals & MVT pattern
+- ✅ API development & authentication
+- ✅ Database relationships & queries
+- 🔄 Advanced Django features
+- 🔄 Django REST Framework
+- 📋 Testing & deployment strategies
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 DevOps Aspirant
+
+**Future Goals & Vision**
+
+After mastering web development, I'm planning to expand into DevOps to understand the complete software lifecycle.
+
+**Planned Learning Roadmap:**
+- 🐧 **Linux** - System administration
+- 📜 **Bash** - Automation scripting
+- 🐳 **Docker** - Containerization
+- ⚙️ **CI/CD** - Pipeline automation
+- ☁️ **Cloud Platforms** - AWS/Azure basics
+- 📈 **Monitoring** - Application observability
+
+**Why DevOps?**
+Understanding deployment, infrastructure, and automation will make me a more well-rounded developer who can take projects from code to production.
 <img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🔭 I'm currently working on **learning DevOps fundamentals**  
-- 🤝 I'm looking to collaborate on **simple open-source projects to practice my skills**  
-- 👐 I'm looking for help with **Bash scripting, CI/CD basics, and Docker**  
-- 🌱 I'm currently learning **Linux, Bash, Git, automation tools, Python**   
-- ⚡ Fun fact: *I break things a lot… then learn how to fix them 🚀*
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</td>
+</tr>
+</table>
+
 
 <div align="center">
 
@@ -50,8 +95,43 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,bash,html,python,mysql,css,django,javascript&theme=dark" />
+### 🎯 Current Expertise - Web Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,html,css,javascript,git&theme=dark" />
+</p>
+
+**Backend Development**
+```
+Python  
+Django  
+PostgreSQL 
+REST APIs 
+```
+
+**Frontend Development**
+```
+HTML5  
+CSS3  
+JavaScript
+```
+
+**Tools & Version Control**
+```
+Git    
+JSON/CSV 
+```
+
+### 📚 DevOps Path - Coming Soon
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,bash,linux,aws&theme=dark" style="opacity: 0.4;" />
+</p>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&opacity=0.5)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
