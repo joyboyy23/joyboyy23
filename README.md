@@ -14,23 +14,20 @@
 
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 💫 About Me:
+
 
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
+💫 About Me:
 
 ### 🌐 Web Developer
 
-**Current Focus & Expertise**
-
-I'm actively building web applications using modern backend technologies. My journey is centered around creating robust, scalable solutions.
-
-**What I'm Working With:**
-- 🐍 **Python** - Core language proficiency
+**What I'm Working With:**                              
+- 🐍 **Python** - Core language proficiency            
 - 🎯 **Django** - Building full-stack applications
 - 🗄️ **PostgreSQL** - Database design & optimization
 - 🔌 **REST APIs** - Creating and consuming APIs
@@ -46,13 +43,15 @@ I'm actively building web applications using modern backend technologies. My jou
 - 📋 Testing & deployment strategies
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
 
 ### 🚀 DevOps Aspirant
 
 **Future Goals & Vision**
 
-After mastering web development, I'm planning to expand into DevOps to understand the complete software lifecycle.
+After mastering web development, I'm planning to expand into DevOps
 
 **Planned Learning Roadmap:**
 - 🐧 **Linux** - System administration
@@ -62,11 +61,9 @@ After mastering web development, I'm planning to expand into DevOps to understan
 - ☁️ **Cloud Platforms** - AWS/Azure basics
 - 📈 **Monitoring** - Application observability
 
-**Why DevOps?**
-Understanding deployment, infrastructure, and automation will make me a more well-rounded developer who can take projects from code to production.
-<img align="right" alt="Coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<center><img alt="Coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></center>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<center><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center>
 
 </td>
 </tr>
@@ -77,12 +74,6 @@ Understanding deployment, infrastructure, and automation will make me a more wel
 
 ## <img src="https://media0.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="25"> 🌍 Connect With Me
 
-<a href="https://discord.com/users/1024679734367485982" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-</a>
-<a href="http://t.me/Jjoyboyy" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" />
-</a>
 <a href="https://www.facebook.com/share/16uUPrqbS9/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" />
 </a>
