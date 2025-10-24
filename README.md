@@ -22,7 +22,6 @@
 <table width="100%">
 <tr>
 <td align="center">
-💫 About Me:
 
 ### 🌐 Web Developer
 
