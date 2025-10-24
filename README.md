@@ -4,7 +4,7 @@
 
 <div align="center" style="position: relative; padding: 20px; background: linear-gradient(90deg, #00FFCC 0%, #00FFCC 25%, transparent 25%, transparent 75%, #00FFCC 75%, #00FFCC 100%); background-size: 20px 4px; background-repeat: repeat-x; background-position: 0 0, 0 100%;">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFCC&center=true&vCenter=true&width=940&lines=%E2%9A%A1+Hello+World%2C+I'm+Joyboyy+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFCC&center=true&vCenter=true&width=940&lines=%E2%9A%A1+Joyboyy+%E2%9A%A1" alt="Typing SVG" />
   
   <h3> 🌌  Aspiring DevOps Engineer | 💻 CS Student </h3>
   
