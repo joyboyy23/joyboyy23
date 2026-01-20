@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FFCC&center=true&vCenter=true&width=940&lines=%E2%9A%A1+Joyboyy+%E2%9A%A1" alt="Typing SVG" />
   
   <h3> 🌌  Aspiring DevOps Engineer | 💻 CS Student </h3>
+  <p>
+    <a href="https://joyboyy.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+    </a>
+  </p>
   
 </div>
 
