@@ -145,35 +145,4 @@ JSON/CSV
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=joyboyy23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=joyboyy23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF&border_radius=10"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Thanks for visiting! 
-<img src="https://komarev.com/ghpvc/?username=joyboyy23&label=Profile%20views&color=0e75b6&style=flat" alt="joyboyy23" />
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
