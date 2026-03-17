@@ -31,7 +31,7 @@
 ### 🌐 Web Developer
 
 **What I'm Working With:**                              
-- 🐍 **Python** - Core language proficiency            
+- 🐍 **Python** - Core language proficiency.            
 - 🎯 **Django** - Building full-stack applications
 - 🗄️ **PostgreSQL** - Database design & optimization
 - 🔌 **REST APIs** - Creating and consuming APIs
